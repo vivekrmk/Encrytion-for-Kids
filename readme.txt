@@ -18,7 +18,7 @@
 
 
 
-           Nice to note that- how you put the holes on the square board matters- when you rotate, you span the whoe board! 
+           Nice to note that- how you put the holes on the square board matters- when you rotate, you should span the whole board! 
 
          Something like the linear Algebra basis? ;P
 
